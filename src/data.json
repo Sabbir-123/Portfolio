@@ -1,0 +1,59 @@
+
+
+
+[
+    {
+      "projectId": 1,
+      "img": "https://i.ibb.co/PMyCDFH/s2.png",
+      "projectName": " কেনাবেচা ডট কম  ",
+      "projectCat": "Used Product Sale",
+      "liveLink": "https://resale-market-d3fe2.web.app/",
+      "gitLink": "https://github.com/Sabbir-123/products_resale",
+      "details": [
+        "When creating an account, a user will see two options, Buyer or Seller. If a user wants to be a seller he or she can register as a seller.",
+        "Buyer, Seller and Admin have their different dashboard.",
+        "Buyer can make payment with online card payment and Seller can add and remove products, make advertisement of a product and Admin can remove any user, and see all reports"
+      ],
+      "screenshot": [
+        "https://i.ibb.co/Pr3ksxp/Kena1.png",
+        "https://i.ibb.co/v3Ych62/Kena2.png",
+        "https://i.ibb.co/qCJRvNx/Kena3.png"
+      ]
+    },
+    {
+      "projectId": 2,
+      "img": "https://i.ibb.co/r3LJHyN/s3.png",
+      "projectName": " Raihan’s Delivery ",
+      "projectCat": "Delivery System",
+      "liveLink": "https://assignment-11-c4f4f.web.app/",
+     "gitLink": "https://github.com/Sabbir-123/Assign_11_client",
+      "details": [
+        "Raihan's Delivery is one of the delivery companies who is trying to contribute to Bangladesh’s economy and to help the small businesses.",
+        "A user can add services so that he/she can provide that service",
+        "A User can see other’s reviews as well as he/she can review the services"
+      ],
+      "screenshot": [
+        "https://i.ibb.co/MnwSVSF/delivery1.png",
+        "https://i.ibb.co/s5gQjbk/delivery2.png",
+        "https://i.ibb.co/vwZwMzc/delivery3.png"
+      ]
+    },
+    {
+      "projectId": 3,
+      "img": "s4",
+      "projectName": " Blockchain",
+      "projectCat": "Learning Courses",
+      "liveLink": "https://i.ibb.co/2kP0FDg/s4.png",
+      "gitLink": "https://github.com/Sabbir-123/learning_courses_client",
+      "details": [
+        "The Blockchain Technology is the future of our Internet. In near future, the web2.0 is going to transfer fully into web3.0. So, it's the high time for learning Blockchain.",
+        "A user can purchase any courses and get premium access",
+        "User can also download pdf of the premium course’s pages"
+      ],
+      "screenshot": [
+        "https://i.ibb.co/yNpwJTm/blockchain1.png",
+        "https://i.ibb.co/cN8DFQF/blockhcain2.png",
+        "https://i.ibb.co/Syb1RWr/blockchain3.png"
+      ]
+    }
+  ]
