@@ -30,7 +30,7 @@ I enjoy coding and learning new technology, that's why it enriches my knowledge 
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2000" className="card-actions justify-center ">
                     <div>
-                        <a href={'https://www.linkedin.com/in/sabbir-02-ahmed/'}>
+                        <a href={'https://www.linkedin.com/in/ahmedsabbir1/'}>
                         <img className="h-12 rounded-lg" src={LIco} alt="" />
                         </a>
                         
